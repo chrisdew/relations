@@ -1,0 +1,13 @@
+[package]
+
+name = "relations"
+version = "0.0.1"
+authors = ["chris"]
+
+[lib]
+
+name = "relations"
+path = "src/relations.rs"
+test = true
+doctest = true
+doc = true
